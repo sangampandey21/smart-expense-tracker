@@ -10,7 +10,7 @@ Smart Expense Tracker is a Java-based desktop application designed to help users
   
 - Real-time balance synchronization.
   
-- Dynamic transaction categorization (Income / Expense based)
+- Dynamic transaction categorization (Income / Expense based).
 - Multi-format report generation:-
   - PDF
   - Excel (XLSX)
