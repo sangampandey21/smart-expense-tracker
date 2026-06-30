@@ -20,7 +20,8 @@ Smart Expense Tracker is a Java-based desktop application designed to help users
 
 
 
-## TECH STACK -
+
+## TECH STACK 
 
 - **Programming Language:** Java.
 - **GUI:** Java Swing. 
