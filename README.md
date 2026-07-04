@@ -29,7 +29,6 @@ Smart Expense Tracker is a Java-based desktop application designed to help users
 
 ---
 
-
   On the way to publish
 
 
