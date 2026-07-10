@@ -15,7 +15,7 @@ Smart Expense Tracker is a Java-based desktop application designed to help users
   - CSV
   - TXT
 - User-friendly desktop interface built with **Java Swing**.
-- Local data storage using **MySQL** for .
+- Local data storage using **MySQL** for better privacy.
 
 
 ## TECH STACK 
